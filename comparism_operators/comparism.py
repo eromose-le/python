@@ -1,0 +1,6 @@
+# print("Equal to \" 5 == 5 \"", 5 == 5)
+# print("Not equal to \" 5 != 3 \"", 5 != 3)
+# print("Greater than \" 10 > 2 \"", 10 > 2)
+# print("Less than \" 10 < 2 \"", 10 < 2)
+# print("Greater than or equal to \" 10 >= 2 \"", 10 >= 2)
+# print("Lesser than or equal to \" 10 <= 2 \"", 10 <= 2)
